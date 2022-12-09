@@ -27,7 +27,7 @@ img {
 .article-created-date { 
    text-align: right;
 }
-.post-title a {
+.post-title{
    color: #ffffff;
 }
 .article-author { 
